@@ -13,4 +13,4 @@ You can enter `ruby scaprture.rb` in command line or you can put it in `C:\Users
 
 I am not responsible for any misuse of this script, but if you do use it, make sure you are using free hosting services to host your FTP server like https://www.eb2a.com/
 
-#BACKDOOR THE PLANET!
+# BACKDOOR THE PLANET!
