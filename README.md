@@ -7,7 +7,7 @@ It Screenshots every 20 seconds (you can change it) and uploads pictures to your
 
 # How to run it?
 
-You can enter `ruby scaprture.rb` in command line or you can put it in `C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` folder to make it autorun whenever PC starts
+You can enter `ruby scaprture.rb` in command line after you put in your FTP credentials, or you can put it in `C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` folder to make it autorun whenever PC starts
 
 # Disclaimer
 
